@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Rahul Yadav 👋
 
-<!--
-**Rahul770-oss/Rahul770-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BS Data Science @ IIT Madras | CGPA: 8.3 | Expected 2026
+💻 Aspiring AI/ML Engineer | Python | Machine Learning
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🔭 Currently building AI projects in NLP & Computer Vision
+- 🌱 Learning: TensorFlow, PyTorch, Docker
+- 📫 Reach me: rajy32615@gmail.com
+- 🔗 LinkedIn: [linkedin.com/in/rahul-yadav-126668440](https://www.linkedin.com/in/rahul-yadav-126668440)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+`Python` `SQL` `Scikit-Learn` `TensorFlow` `PyTorch` `Git` `Docker` `Jupyter`
+
+### 📌 Featured Projects
+- **AI Text Summarizer** - NLP model with Transformers (ROUGE-L: 0.42)
+- **Pneumonia Detection** - CNN model with 94.5% accuracy
+
+### 📊 GitHub Stats
+Open to Internships in ML / AI / Data Science
